@@ -1,0 +1,29 @@
+{
+    "guid": "template-application-startbootstrap",
+    "dependencies": [
+        {
+            "guid": "template-application-schema",
+            "url": "https://github.com/dirigiblelabs/template-application-schema.git",
+            "type": "git",
+            "branch": "master"
+        },
+        {
+            "guid": "template-application-feed",
+            "url": "https://github.com/dirigiblelabs/template-application-feed.git",
+            "type": "git",
+            "branch": "master"
+        },
+        {
+            "guid": "template-application-ui-startbootstrap",
+            "url": "https://github.com/dirigiblelabs/template-application-ui-startbootstrap.git",
+            "type": "git",
+            "branch": "master"
+        },
+        {
+            "guid": "template-application-odata",
+            "url": "https://github.com/dirigiblelabs/template-application-odata.git",
+            "type": "git",
+            "branch": "master"
+        }
+    ]
+}
